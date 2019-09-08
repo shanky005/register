@@ -152,4 +152,5 @@ if(isset($_POST['register']))
 		             echo "error in inserted".mysqli_error($run); 
 		            }
 	}
-	?>
+	
+?>
